@@ -6,6 +6,8 @@ from main.models import Product
 from django.http import HttpResponse
 from django.core import serializers
 
+#tes
+
 mhs_name = 'Pak Bepe'
 mhs_class = 'PBP A'
 # Create your views here.
